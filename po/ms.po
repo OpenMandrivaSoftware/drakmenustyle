@@ -1,0 +1,49 @@
+# drakmenustyle Bahasa Melayu (Malay) (ms).
+# Copyright (C) 2008 Mandriva
+# Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2008-09-16 22:45+0800\n"
+"Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
+"Language-Team: Malay <translation-team-ms@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Guna tetapan pentadbir sistem"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Menu asal (menu piawai KDE/GNOME, mungkin tidak mengandungi semua aplikasi)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Tetapan Gaya Menu"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Gaya Menu"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Pilih gaya menu anda:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "Perubahan telah dibuat, tetapi untuk efektif anda mesti log keluar"

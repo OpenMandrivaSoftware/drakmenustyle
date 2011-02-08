@@ -1,0 +1,687 @@
+2009-03-21 19:21  gustav
+
+	* po/bg.po: update translation for Bulgarian language
+
+2009-03-16 11:12  atilla
+
+	* po/tr.po: updated translation for turkish language
+
+2009-03-13 14:14  olorin
+
+	* po/nb.po: update for Norwegian Bokmål translation
+
+2009-03-03 22:12  cfrussen
+
+	* po/ro.po: Completely updated & revised Romanian translation
+
+2009-02-11 16:21  bedi
+
+	* po/pt_BR.po: update translation for pt_BR language
+
+2009-01-07 09:52  Tomasz Bednarski <tbednarski at mandrivalinux.pl>
+
+	* po/pl.po: update translation for Polish
+
+2008-11-22 13:40  Ilyas Bakirov <just_ilyas at yahoo.com>
+
+	* po/ky.po: update translation for kirghiz language
+
+2008-09-22 19:54  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: 0.13
+
+2008-09-16 14:46  Sharuzzaman Ahmat Raslan <sharuzzaman at myrealbox.com>
+
+	* po/ms.po: Updated Malay translation
+
+2008-07-23 18:11  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/ro.po: initial translation (Pîrîu Cristian Ionuţ)
+
+2008-05-25 18:34  Gergely Lónyai <aleph at mandriva.org>
+
+	* po/hu.po: Hungarian translation update
+
+2008-05-13 16:19  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/br.po, po/bs.po, po/ca.po, po/cs.po, po/cy.po, po/da.po,
+	  po/de.po, po/drakmenustyle.pot, po/el.po, po/eo.po, po/es.po,
+	  po/et.po, po/eu.po, po/fi.po, po/fr.po, po/gl.po, po/he.po,
+	  po/hu.po, po/id.po, po/is.po, po/it.po, po/ja.po, po/ltg.po,
+	  po/mk.po, po/ms.po, po/nb.po, po/nl.po, po/nn.po, po/pl.po,
+	  po/pt.po, po/pt_BR.po, po/ru.po, po/sl.po, po/sv.po, po/tg.po,
+	  po/tr.po, po/uk.po, po/wa.po, po/zh_CN.po, po/zh_TW.po: sync with
+	  code
+
+2008-05-13 16:18  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: reuse any::ask_for_X_restart()
+
+2008-05-07 18:22  Сергій Рибалченко (Sergey Ribalchenko) <fisher at obu.ck.ua>
+
+	* po/uk.po: po file update
+
+2008-04-06 13:23  unho
+
+	* po/eu.po: update translation for basque
+
+2008-04-03 07:36  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: 0.12
+
+2008-03-29 11:19  unho
+
+	* po/gl.po: update translation for galician
+
+2008-03-25 21:50  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: 0.11
+
+2008-03-25 21:49  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog: update
+
+2008-03-21 11:31  Sharuzzaman Ahmat Raslan <sharuzzaman at myrealbox.com>
+
+	* po/ms.po: Updated Malay translation
+
+2008-03-21 11:31  Sharuzzaman Ahmat Raslan <sharuzzaman at myrealbox.com>
+
+	* po/ms.po: Updated Malay translation
+
+2008-03-14 11:04  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/Makefile: (update_n_merge) split it out of (merge) ; now
+	  (merge) only update po w/o updating main pot file
+
+2008-03-01 20:55  nikos
+
+	* po/el.po: update translation for greek language (el)
+
+2008-02-16 01:22  Keld Jørn Simonsen <keld at dkuug.dk>
+
+	* po/da.po: updates
+
+2008-02-15 17:57  Sharuzzaman Ahmat Raslan <sharuzzaman at myrealbox.com>
+
+	* po/ms.po: Updated Malay translation
+
+2008-02-06 01:56  Jure Repinc
+
+	* po/sl.po: Updated Slovenian translation
+
+2007-12-30 10:51  Inigo Salvador Azurmendi <xalba at euskalnet.net>
+
+	* po/eu.po: nomsg
+
+2007-10-03 21:38  Arpad Biro <biro_arpad at yahoo.com>
+
+	* po/ltg.po: update by Mario
+
+2007-10-01 17:31  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog: update
+
+2007-10-01 17:31  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: 0.10
+
+2007-10-01 17:31  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog: update
+
+2007-10-01 17:31  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: 0.10
+
+2007-10-01 17:31  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: 0.10
+
+2007-09-28 01:33  Willy Sudiarto Raharjo <willysr at gmail.com>
+
+	* po/id.po: Update Indonesian Translations
+
+2007-09-28 01:33  Willy Sudiarto Raharjo <willysr at gmail.com>
+
+	* po/id.po: Update Indonesian Translations
+
+2007-09-26 11:42  guclu
+
+	* po/tr.po: update translation for Turkish
+
+2007-09-25 20:43  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog, Makefile: 0.9
+
+2007-09-20 02:42  mmodem
+
+	* po/pt.po: up
+
+2007-09-20 02:42  mmodem
+
+	* po/pt.po: up
+
+2007-09-15 15:21  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog, Makefile: 0.8
+
+2007-09-03 15:15  Сергій Рибалченко (Sergey Ribalchenko) <fisher at obu.ck.ua>
+
+	* po/uk.po: propset svn:keywords
+
+2007-09-03 15:06  Сергій Рибалченко (Sergey Ribalchenko) <fisher at obu.ck.ua>
+
+	* po/uk.po: new uk file
+
+2007-09-03 15:15  Сергій Рибалченко (Sergey Ribalchenko) <fisher at obu.ck.ua>
+
+	* po/uk.po: propset svn:keywords
+
+2007-09-03 15:06  Сергій Рибалченко (Sergey Ribalchenko) <fisher at obu.ck.ua>
+
+	* po/uk.po: new uk file
+
+2007-09-03 11:20  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: bump release (0.7)
+
+2007-09-03 11:17  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/br.po, po/bs.po, po/ca.po, po/cs.po, po/cy.po, po/de.po,
+	  po/drakmenustyle.pot, po/eo.po, po/es.po, po/et.po, po/fi.po,
+	  po/fr.po, po/gl.po, po/he.po, po/hu.po, po/id.po, po/is.po,
+	  po/it.po, po/ja.po, po/ltg.po, po/mk.po, po/ms.po, po/nb.po,
+	  po/nl.po, po/nn.po, po/pl.po, po/pt.po, po/pt_BR.po, po/ru.po,
+	  po/sl.po, po/sv.po, po/tg.po, po/wa.po, po/zh_CN.po, po/zh_TW.po:
+	  sync with code
+
+2007-09-03 11:16  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: kill discovery choice (#33073)
+
+2007-09-03 11:15  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: bump copyright
+
+2007-09-03 11:17  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/br.po, po/bs.po, po/ca.po, po/cs.po, po/cy.po, po/de.po,
+	  po/drakmenustyle.pot, po/eo.po, po/es.po, po/et.po, po/fi.po,
+	  po/fr.po, po/gl.po, po/he.po, po/hu.po, po/id.po, po/is.po,
+	  po/it.po, po/ja.po, po/ltg.po, po/mk.po, po/ms.po, po/nb.po,
+	  po/nl.po, po/nn.po, po/pl.po, po/pt.po, po/pt_BR.po, po/ru.po,
+	  po/sl.po, po/sv.po, po/tg.po, po/wa.po, po/zh_CN.po, po/zh_TW.po:
+	  sync with code
+
+2007-09-03 11:16  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: kill discovery choice (#33073)
+
+2007-09-03 11:15  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: bump copyright
+
+2007-08-14 13:25  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: use -rBASE for svn export in order to please blino by
+	  making sure local changes do not got exported
+
+2007-07-04 16:05  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: (changelog) typo fix
+
+2007-07-03 17:48  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: (changelog) --strip-prefix is now uneeded with
+	  svn2cl-0.9
+
+2007-07-03 16:38  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/ms.po: add ms translation (Sharuzzaman Ahmat Raslan)
+
+2007-06-11 15:15  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/eo.po: update (Vilhelmo Lutermano)
+
+2007-06-08 14:30  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: bump release (0.6)
+
+2007-06-07 18:32  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* .perl_checker, COPYING, ChangeLog, Makefile, drakmenustyle,
+	  drakmenustyle16.png, drakmenustyle32.png, drakmenustyle48.png,
+	  po, po/Makefile, po/POTFILES.in, po/br.po, po/bs.po, po/ca.po,
+	  po/cs.po, po/cy.po, po/de.po, po/drakmenustyle.pot, po/eo.po,
+	  po/es.po, po/et.po, po/fi.po, po/fr.po, po/gl.po, po/he.po,
+	  po/hu.po, po/id.po, po/is.po, po/it.po, po/ja.po, po/ltg.po,
+	  po/mk.po, po/nb.po, po/nl.po, po/nn.po, po/pl.po, po/pt.po,
+	  po/pt_BR.po, po/ru.po, po/sl.po, po/sv.po, po/tg.po, po/wa.po,
+	  po/zh_CN.po, po/zh_TW.po: reimport drakmenustyle in SVN as of 0.5
+
+2007-06-07 18:30  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* .: create
+
+2007-03-12 15:26  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/Makefile: (clean) do not erase pot file (needed for next
+	  commit) and don't erase mo files twice
+
+2007-03-12 15:24  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile, drakmenustyle.spec: drop packaging stuff (now handled
+	  by repsys)
+
+2007-03-03 00:53  ybando
+
+	* po/ja.po: Japanese translation revised (a very small fix)
+
+2007-02-23 13:17  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/br.po: plural-forms
+
+2007-01-26 17:02  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/he.po: initial translation (Dotan Kamber)
+
+2007-01-22 14:50  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/bs.po, po/ca.po, po/cs.po, po/cy.po, po/de.po, po/es.po,
+	  po/et.po, po/fi.po, po/id.po, po/it.po, po/mk.po, po/nb.po,
+	  po/nl.po, po/pl.po, po/ru.po, po/sv.po, po/wa.po, po/zh_CN.po,
+	  po/zh_TW.po: adapted to plural-forms
+
+2006-12-22 11:54  ybando
+
+	* po/ja.po: adding Plural-Forms definition to ja.po
+
+2006-11-30 18:05  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: drop obsolete rpm rules
+
+2006-11-28 14:56  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: (disà switch from CVS to SVN
+
+2006-11-28 14:39  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog: update
+
+2006-11-28 14:39  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: strip pragams in drakmenustyle
+
+2006-11-27 14:57  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/tg.po: Added Tajik file
+
+2006-11-27 14:57  pablo
+
+	* soft/drakmenustyle/trunk/po/tg.po: Added Tajik file
+
+2006-10-31 09:36  pablo
+
+	* soft/drakmenustyle/trunk/po/gl.po: updated Galician file
+
+2006-10-09 13:22  pablo
+
+	* soft/drakmenustyle/trunk/po/ltg.po: Added Latgalian file
+
+2006-09-22 21:14  pablo
+
+	* soft/drakmenustyle/trunk/po/sl.po: updated Slovenian file
+
+2006-09-18 20:00  tv
+
+	* soft/drakmenustyle/trunk/po/it.po: update (Andrea Celli)
+
+2006-09-15 22:00  tv
+
+	* soft/drakmenustyle/trunk/drakmenustyle.spec: 0.4-1mdv2007.0
+
+2006-09-15 15:21  pablo
+
+	* soft/drakmenustyle/trunk/po/bs.po,
+	  soft/drakmenustyle/trunk/po/cs.po,
+	  soft/drakmenustyle/trunk/po/pl.po: fixed msgid
+
+2006-09-15 15:21  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/bs.po, po/cs.po, po/pl.po: fixed msgid
+
+2006-09-13 17:08  vljubovic
+
+	* po/bs.po: Add Bosnian translation of drakmenustyle
+
+2006-09-12 21:09  Michal Bukovjan <bukovjan at mbox.dkm.cz>
+
+	* po/cs.po: Update Czech translation
+
+2006-09-12 19:03  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog: update
+	* drakmenustyle.spec: 0.3-1mdv2007.0
+
+2006-09-12 19:01  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: load translations from drakmenustyle catalog
+
+2006-09-12 19:01  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: load translations from drakmenustyle catalog
+
+2006-09-12 13:44  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/br.po: initial translation
+
+2006-09-12 10:04  Pjetur G. Hjaltason <pjetur at pjetur.net>
+
+	* po/is.po: New version
+
+2006-09-11 18:33  Arpad Biro <biro_arpad at yahoo.com>
+
+	* po/pl.po: new file from Tomasz
+
+2006-09-11 14:37  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle, po/ca.po, po/cy.po, po/de.po,
+	  po/drakmenustyle.pot, po/eo.po, po/es.po, po/et.po, po/fi.po,
+	  po/fr.po, po/gl.po, po/hu.po, po/id.po, po/it.po, po/ja.po,
+	  po/mk.po, po/nb.po, po/nl.po, po/nn.po, po/pt.po, po/pt_BR.po,
+	  po/ru.po, po/sl.po, po/sv.po, po/wa.po, po/zh_CN.po,
+	  po/zh_TW.po: typo fix (Arpad Biro)
+
+2006-09-10 17:22  Pavel Maryanov <acid_jack at ukr.net>
+
+	* po/ru.po: initial translation
+
+2006-09-08 23:12  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/cy.po: Added Welsh file
+
+2006-09-08 19:33  nbauer
+
+	* po/de.po: Update German translation (Sebastian Deutscher)
+
+2006-09-08 19:30  nbauer
+
+	* po/de.po: Update German translation (Sebastian Deutscher)
+
+2006-09-08 01:28  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/de.po, po/sl.po: Added Slovenian file
+
+2006-09-05 21:57  nbauer
+
+	* po/de.po: Update German translation
+
+2006-09-05 13:38  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog: update
+
+2006-09-05 13:37  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle.spec: more changes for 0.2-1mdv2007.0
+
+2006-09-05 13:36  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle16.png, drakmenustyle32.png, drakmenustyle48.png:
+	  new icons
+
+2006-09-05 13:27  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: don't display the banner when embedded
+
+2006-09-05 13:37  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle.spec: more changes for 0.2-1mdv2007.0
+
+2006-09-05 13:36  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle16.png, drakmenustyle32.png, drakmenustyle48.png:
+	  new icons
+
+2006-09-05 13:27  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: don't display the banner when embedded
+
+2006-09-05 13:36  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle16.png, drakmenustyle32.png, drakmenustyle48.png:
+	  new icons
+
+2006-09-05 13:27  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: don't display the banner when embedded
+
+2006-09-04 12:06  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog, drakmenustyle.png, drakmenustyle.spec: kill screenshot
+
+2006-09-03 22:29  Reinout van Schouwen <reinout at cs.vu.nl>
+
+	* po/nl.po: Reinout van Schouwen <reinouts@gnome.org>
+	  
+	  Updated Dutch translation
+
+2006-09-02 00:44  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/mk.po: Added Macedonian file
+
+2006-09-01 20:38  Arpad Biro <biro_arpad at yahoo.com>
+
+	* po/hu.po: new translation
+
+2006-09-01 12:51  Shiva Huang <blueshiva at giga.net.tw>
+
+	* po/zh_TW.po: updated po file
+
+2006-09-01 03:33  mmodem
+
+	* po/pt.po: up
+
+2006-09-01 03:21  mmodem
+
+	* po/pt.po: up
+
+2006-08-31 20:10  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: HIG
+
+2006-08-31 19:44  Karl Ove Hufthammer <karl at huftis.org>
+
+	* po/nn.po: Created Norwegian Nynorsk (nn) translation.
+
+2006-08-31 19:44  Karl Ove Hufthammer <karl at huftis.org>
+
+	* po/nn.po: Created Norwegian Nynorsk (nn) translation.
+
+2006-08-31 15:15  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/et.po: updated po file
+
+2006-08-31 12:38  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle.spec: fix summary (#24959)
+
+2006-08-31 10:46  Pablo Saratxaga <pablo at mandriva.com>
+
+	* po/ca.po, po/eo.po, po/es.po, po/gl.po, po/it.po, po/pt.po,
+	  po/wa.po: Added new languages
+
+2006-08-28 19:30  thomas
+
+	* po/fi.po, po/sv.po: new translations
+
+2006-08-17 19:21  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle.spec: make it noarch
+
+2006-08-17 19:14  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* ChangeLog: initial import of ChangeLog
+
+2006-08-17 19:09  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/fr.po, po/id.po, po/ja.po, po/nb.po, po/pt_BR.po: merge in
+	  translations from drakx/standalone/po for the new string
+
+2006-08-17 19:08  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/drakmenustyle.pot, po/fr.po, po/id.po, po/ja.po, po/nb.po,
+	  po/pt_BR.po: sync with code
+	* drakmenustyle.spec: bump release date
+
+2006-08-17 19:06  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* Makefile: (changelog) switch from CVS to SVN
+
+2006-08-17 19:04  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* .perl_checker: blacklist enough modules so that perl_checker is
+	  able to parse drakmenustyle
+	* drakmenustyle: save old value; if new value is different from
+	  old one; then offer to
+	  log out in order for the changes to be effective
+
+2006-08-17 18:58  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: split out computing default value
+
+2006-08-17 18:55  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: rename "default" variable as "value"
+	* drakmenustyle: fix defaulting to default value if no previous
+	  value
+
+2006-08-17 18:51  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: fix default value (system settings for the user,
+	  mandriva for root)
+
+2006-08-17 17:37  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: default to "mandriva" style when run as root
+
+2006-08-17 19:04  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* .perl_checker: blacklist enough modules so that perl_checker is
+	  able to parse drakmenustyle
+	* drakmenustyle: save old value; if new value is different from
+	  old one; then offer to
+	  log out in order for the changes to be effective
+
+2006-08-17 18:58  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: split out computing default value
+
+2006-08-17 18:55  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: rename "default" variable as "value"
+	* drakmenustyle: fix defaulting to default value if no previous
+	  value
+
+2006-08-17 18:51  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: fix default value (system settings for the user,
+	  mandriva for root)
+
+2006-08-17 17:37  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: default to "mandriva" style when run as root
+
+2006-08-17 19:04  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* .perl_checker: blacklist enough modules so that perl_checker is
+	  able to parse drakmenustyle
+	* drakmenustyle: save old value; if new value is different from
+	  old one; then offer to
+	  log out in order for the changes to be effective
+
+2006-08-17 18:58  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: split out computing default value
+
+2006-08-17 18:55  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: rename "default" variable as "value"
+	* drakmenustyle: fix defaulting to default value if no previous
+	  value
+
+2006-08-17 18:51  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: fix default value (system settings for the user,
+	  mandriva for root)
+
+2006-08-17 17:37  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle: default to "mandriva" style when run as root
+
+2006-08-17 15:26  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle.spec: provides/obsoletes menudrake
+
+2006-08-17 13:33  Marek Laane <bald at starman.ee>
+
+	* po/et.po: Estonian translation.
+
+2006-08-16 23:48  Per Øyvind Karlsen <peroyvind at mandriva.org>
+
+	* po/nb.po: Added norwegian translation
+
+2006-08-14 18:16  felipe
+
+	* po/pt_BR.po: adding pt_BR translation
+
+2006-08-10 23:58  Willy Sudiarto Raharjo <willysr at gmail.com>
+
+	* po/id.po: Added Indonesian translation
+
+2006-08-10 21:24  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/ja.po: initial translation (Yukiko Bando)
+
+2006-08-10 15:23  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* po/drakmenustyle.pot: add missing catalog
+
+2006-08-10 15:20  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* drakmenustyle.spec.tv, po/.Makefile.swp, po/.fr.po.swp: remive
+	  wrongly imported files
+
+2006-08-10 15:18  Olivier Blin <oblin at mandriva.com>
+
+	* ., soft/trunk/drakmenustyle: move soft/trunk/drakmenustyle in
+	  soft/drakmenustyle/trunk
+
+2006-08-10 15:17  Olivier Blin <oblin at mandriva.com>
+
+	* ., soft/trunk: temporarily move soft/drakmenustyle/trunk in
+	  soft/trunk
+
+2006-08-10 15:01  Olivier Blin <oblin at mandriva.com>
+
+	* ., soft/trunk: move drakmenustyle trunk in soft/drakmenustyle
+
+2006-08-10 14:31  Thierry Vignaud <tvignaud at mandriva.com>
+
+	* soft/branches, soft/tags, soft/trunk, soft/trunk/drakmenustyle,
+	  soft/trunk/drakmenustyle/COPYING,
+	  soft/trunk/drakmenustyle/Makefile,
+	  soft/trunk/drakmenustyle/drakmenustyle,
+	  soft/trunk/drakmenustyle/drakmenustyle.png,
+	  soft/trunk/drakmenustyle/drakmenustyle.spec,
+	  soft/trunk/drakmenustyle/drakmenustyle.spec.tv,
+	  soft/trunk/drakmenustyle/drakmenustyle16.png,
+	  soft/trunk/drakmenustyle/drakmenustyle32.png,
+	  soft/trunk/drakmenustyle/drakmenustyle48.png,
+	  soft/trunk/drakmenustyle/po,
+	  soft/trunk/drakmenustyle/po/.Makefile.swp,
+	  soft/trunk/drakmenustyle/po/.fr.po.swp,
+	  soft/trunk/drakmenustyle/po/Makefile,
+	  soft/trunk/drakmenustyle/po/POTFILES.in,
+	  soft/trunk/drakmenustyle/po/fr.po: import drakmenustyle
+

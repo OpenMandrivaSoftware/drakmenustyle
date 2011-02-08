@@ -1,0 +1,55 @@
+# Nederlandse vertaling van drakmenustyle
+# Copyright (C) 2006 Free Software Foundation, Inc.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Drakmenustyle\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2006-09-04 00:24+0200\n"
+"Last-Translator: Reinout van Schouwen <reinouts@gnome.org>\n"
+"Language-Team: Dutch <vertaling@nl.linux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Instellingen van systeembeheerder overnemen"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Originele menu (standaardmenu van KDE/GNOME, bevat mogelijk niet alle "
+"toepassingen)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Configuratie van menustijl"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Menustijl"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Kies uw menustijl:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr ""
+#~ "De wijziging is gemaakt, maar om het effect te zien dient u zich eerst af "
+#~ "te melden"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery-menu"

@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2006 Mandriva
+# Pablo Saratxaga <pablo@mandriva.com>, 2006
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2010-01-23 21:05+0100\n"
+"Last-Translator: marquinos <marcoscostales@gmail.com>\n"
+"Language-Team: spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Siguir les configuraciones del alministrador del sistema"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Menú orixinal (menú predetermináu pa KDE/GNOME, puede nun caltener toles "
+"aplicaciones)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Configuración del Estilo de Menú"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Estilu del Menú"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Escueye l'estilu del to menú:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "Se ha realizado el cambio, pero no se hará efectivo hasta que salga"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Menú «Discovery»"

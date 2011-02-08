@@ -1,0 +1,58 @@
+# translation of pt_BR.po to Brazilian Portuguese
+# Portuguese translations for cooker-i package.
+# Copyright (C) 2006 Free Software Foundation, Inc.
+#
+# Automatically generated, 2006.
+# Felipe Arruda <felipemiguel@gmail.com>, 2006.
+# Sergio Rafael Lemke <sergio@mandriva.com.br>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: pt_BR\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2009-02-11 14:22-0200\n"
+"Last-Translator: Sergio Rafael Lemke <sergio@mandriva.com.br>\n"
+"Language-Team: Brazilian Portuguese <cooker-i18n@mandrivalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Usar configurações do administrador do sistema"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Menu Original (menu padrão do KDE/GNOME, pode não conter todas as aplicações)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Configuração do estilo do menu"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Estilo do Menu"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Escolha o estilo para o seu menu:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr ""
+#~ "A alteração foi feita, mas para ser efetivada você deve sair do sistema"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Menu Discovery"

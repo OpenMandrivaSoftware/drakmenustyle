@@ -1,0 +1,52 @@
+# translation of drakmenustyle.pot to Japanese
+# BANDO Yukiko <yband@k6.dion.ne.jp>, 2004.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle-ja\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2004-08-11 06:00+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <cooker-i18n@mandrivalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "システム管理者による設定を使う"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"オリジナルメニュー (KDE/GNOME の標準メニュー、表示されないアプリがあります)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "メニュースタイルの設定"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "メニュースタイル"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "メニュースタイルを選択:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "設定を変更しました。有効にするにはログアウトしてください。"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery メニュー"

@@ -1,0 +1,56 @@
+# wa.po file for the drakmenustyle package.
+# Copyright (C) 2006 Mandriva.
+# Pablo Saratxaga <pablo@mandriva.com>, 2006
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bootsplash\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date:  2006-08-17 21:07+0200\n"
+"Last-Translator: Pablo Saratxaga <pablo@mandrakesoft.com>\n"
+"Language-Team: Walon <linux-wa@walon.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Eployî l' apontiaedje fwait pal manaedjeu do sistinme"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Menu d' oridjinne (li prémetou menu di KDE / Gnome, i s' pout k' i n' åye "
+"nén tos les programes)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Apontiaedje do stîle do menu"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Stîle do menu"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Tchoezixhoz vosse sitîle di menu:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr ""
+#~ "Li candjmint a stî fwait, mins i vs fåt dislodjî et rvini e session po "
+#~ "k' i prindaxhe efet"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Menu d' discovraedje"

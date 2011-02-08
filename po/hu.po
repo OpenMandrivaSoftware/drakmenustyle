@@ -1,0 +1,59 @@
+# translation of Drakmenustyle to Hungarian
+# Copyright (C) 2006 Free Software Foundation, Inc.
+# Arpad Biro, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle-2008.1\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2008-05-25 20:33+0100\n"
+"Last-Translator: Lónyai Gergely <aleph@mandriva.org>\n"
+"Language-Team: Hungarian <aleph@mandriva.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Rendszergazdai beállítások használata"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Eredeti menü (a KDE/GNOME alapértelmezett menüje; nem biztos, hogy minden "
+"alkalmazást tartalmaz)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Menüstílus beállítása"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Menüstílus"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Válasszon menüstílust:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr ""
+#~ "A módosítás el lett végezve - a következő bejelentkezéskor lép életbe"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery-menü"

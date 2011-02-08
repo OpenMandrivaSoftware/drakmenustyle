@@ -1,0 +1,56 @@
+# Translation of drakmenustyle.po to Russian
+# Copyright (C) 2006 Free Software Foundation, Inc.
+#
+# Pavel Maryanov <acid_jack@ukr.net>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2007-09-27 21:10+0200\n"
+"Last-Translator: Māris Laureckis <marisl@e-no.lv>\n"
+"Language-Team: Latgalian <marisl@e-no.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Lītuot sistemys administratora īstatiejumus"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Originaluo izvieļne (standartizvieļne KDE/GNOME; var iztryukt dažys "
+"aplikacejis)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Izvieļnis Stila konfiguraceja"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Izvieļnis Stils"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Izavielejit jiusu izvieļnis stilu:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr ""
+#~ "Izmainis ir izpiļdeitys, bet, lai tuos byutu spākā, jiusim juoizīt nu "
+#~ "sistemys"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery izvieļne"

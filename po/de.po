@@ -1,0 +1,54 @@
+# German translation of drakmenustyle.
+# Copyright (C) 2006 Free Software Foundation, Inc.
+# Sebastian Deutscher <sebastian.deutscher@web.de>, 2006.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle-de.po\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2006-09-03 22:28+0200\n"
+"Last-Translator: Sebastian Deutscher <sebastian.deutscher@web.de>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bitPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Einstellungen des Systemadministrators benutzen"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Original-Menü (Standard-Menü von KDE/GNOME, enthält nicht alle Anwendungen)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Stil des Menüs konfigurieren"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Menü-Stil"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Menü-Stil wählen:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "Damit die Änderungen wirksam werden, müssen Sie sich neu anmelden."
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery-Menü"

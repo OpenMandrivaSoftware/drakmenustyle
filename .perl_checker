@@ -1,0 +1,10 @@
+AutoLoader
+Carp::Heavy
+constant
+Digest::base
+Encode
+File::FnMatch
+File::Path
+Gtk2::Gdk::Keysyms
+IO::Handle
+Text::ParseWords

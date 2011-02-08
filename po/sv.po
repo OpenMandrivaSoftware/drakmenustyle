@@ -1,0 +1,55 @@
+# drakmenustyle-sv - Swedish Translation
+# Copyright (C) 2006 Free Software Foundation, Inc.
+#
+# Thomas Backlund <tmb@mandriva.org>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle-sv - Mandriva 2007 Release\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2006-08-26 22:09+0300\n"
+"Last-Translator: Thomas Backlund <tmb@mandriva.org>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Använd systemadministratörens inställningar"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Orginalmeny (standardmeny från KDE/GNOME, innehåller kanske inte alla "
+"applikationer)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Menystil konfiguration"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Menystil"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Välj din meystil:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "Ändringen är gjord, men för att tas ibruk måste du logga ut"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery meny"

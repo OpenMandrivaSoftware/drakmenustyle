@@ -1,0 +1,52 @@
+# translation of drakmenustyle to Simplified Chinese
+# Copyright (C) 2006 Free Software Foundation, Inc.
+# Funda Wang <fundawang@gmail.com>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2006-08-17 01:48+0200\n"
+"Last-Translator: Funda Wang <fundawang@gmail.com>\n"
+"Language-Team: Simplified Chinese <cooker-i18n@mandrivalinux.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "使用系统管理员设置"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr "原始菜单(KDE/GNOME 的默认菜单，可能不包含全部应用程序)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "菜单风格配置"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "菜单风格"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "选择您的菜单风格："
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "更改已经完成，但在您注销后才会生效"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery 菜单"

@@ -1,0 +1,56 @@
+# Translation of cs.po to Czech
+# Copyright (C) 2006 Free Software Foundation, Inc.
+#
+# Michal Bukovjan <bukm@centrum.cz>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: cs\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2006-09-12 23:11+0200\n"
+"Last-Translator: Michal Bukovjan <bukm@centrum.cz>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Použít nastavení správce systému"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Původní nabídka (výchozí nabídka z KDE nebo GNOME, nemusí obsahovat všechny "
+"aplikace)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Nastavení stylu nabídky"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Styl nabídky"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Vyberte svůj styl nabídky:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "Změny byly provedeny, projeví se však až po vašem odhlášení"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Nabídka Discovery"

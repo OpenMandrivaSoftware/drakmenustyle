@@ -1,0 +1,70 @@
+#!/usr/bin/perl 
+
+# menudrake2
+
+# Copyright (C) 2006,2007 Mandriva
+#                         Thierry Vignaud <tvignaud@mandriva.com>
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2, or (at your option)
+# any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+
+use lib qw(/usr/lib/libDrakX);
+use strict;
+use standalone;
+use common;
+# i18n: IMPORTANT: to get correct namespace (drakconf instead of libDrakX)
+BEGIN { unshift @::textdomains, 'drakmenustyle' }
+use ugtk2 qw(:create :dialogs :helpers :wrappers);
+$ugtk2::wm_icon = 'drakmenustyle';
+use interactive;
+
+
+my $in = 'interactive'->vnew;
+
+my %menu_styles = (
+    if_($> != 0, use_system_settings => N("Use system administrator settings")),
+    mageia => N("Mageia menu"),
+    upstream => N("Original menu (default menu from KDE/GNOME, may not contain all applications)"),
+);
+  
+my $cfg_file = $> ? "$ENV{HOME}/.menustyle" : '/etc/sysconfig/menustyle';
+my %h = getVarsFromSh($cfg_file);
+
+my $default = $> ? 'use_system_settings' : 'mageia';
+my $value = $h{MGA_MENU_STYLE} || $default;
+my $old_value = $value;
+
+$in->ask_from_(
+    { title => N("Menu Style Configuration"),
+      if_(!$::isEmbedded, banner_title => N("Menu Style")),
+      icon => '/usr/share/icons/large/drakmenustyle.png',
+  },
+    [
+        {  label => N("Choose your menu style:"), title => 1 },
+        { list => [ sort { $menu_styles{use_system_settings} cmp $menu_styles{$a} or $menu_styles{$a} cmp $menu_styles{$b} } keys %menu_styles ], type => 'list', format => sub { $menu_styles{$_[0]} },
+          gtk => { use_boxradio => 1 }, val => \$value,
+      },
+    ],
+) or exit(0);
+
+if ($value eq 'use_system_settings') {
+    rm_rf($cfg_file) if $> && -e $cfg_file;
+} else {
+    setVarsInSh($cfg_file, { MGA_MENU_STYLE => $value });
+}
+
+if ($old_value ne $value) {
+    any::ask_for_X_restart($in);
+}

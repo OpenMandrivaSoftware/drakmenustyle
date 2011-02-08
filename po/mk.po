@@ -1,0 +1,56 @@
+# translation of drakmenustyle-mk.po to
+# translation of drakmenustyle-mk.po to Macedonian
+# Copyright (C) 2004, 2005, 2006 Free Software Foundation, Inc.
+#
+# Zoran Dimovski <zoki.dimovski@gmail.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle-mk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2006-09-01 14:34+0200\n"
+"Last-Translator: Зоран Димовски <zoki.dimovski@gmail.com>\n"
+"Language-Team: Macedonian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural= n==1 || n%10==1 ? 0 : 1\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Користи поставувања на системски администратор"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Оригинално мени (стандардното мени од „KDE/GNOME“, можеби не ги содржи сите "
+"апликации)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Конфигурација за стилот на менито"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Стил на мени"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Изберете го стилот на вашето мени:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "Промената е извршена. Но, за да се примени мора да се одјавите"
+
+#~ msgid "Discovery menu"
+#~ msgstr "„Discovery“ мени"

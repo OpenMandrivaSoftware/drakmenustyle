@@ -1,0 +1,49 @@
+# translation of drakmenustyle.po to Arabic
+# Copyright (C) 2009 Free Software Foundation, Inc.
+#
+# Ma'moun Diraneyya <mamoun.diraneyya@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2009-04-13 01:05+0300\n"
+"Last-Translator: Ma'moun Diraneyya <mamoun.diraneyya@gmail.com>\n"
+"Language-Team: Arabic <doc@arabeyes.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "استخدم إعدادات مُدير النظام"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"القائمة الأصلية (ربما لا تحتوي القائمة الافتراضية من كِدي/جنوم التطبيقات كلها)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "ضبط سمْت القائمة"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "سمْت القائمة"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "اختر سمْت قائمتك:"

@@ -1,0 +1,57 @@
+# translation of drakmenustyle-eo.po to
+# MESAĜOJ DE MANDRIVA drakmenustyle.
+# Copyright (C) 2006 Mandriva, S.A.
+#
+# Wilhelm Luttermann <vlutermano@free.fr>, 2004.
+# Vilhelmo Lutermano <vlutermano@free.fr>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle-eo\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2007-03-14 19:31+0100\n"
+"Last-Translator: Vilhelmo Lutermano <vlutermano@free.fr>\n"
+"Language-Team:  <eo@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Uzu la konfiguraĵon de la sistemestro"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Originala menuo (defaŭlta menuo de KDE / GNOME, eble ne entenas ĉiujn "
+"aplikaĵojn)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Agordo de la menuo-stilo"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Menustilo"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Elektu vian menuo-stilon:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr ""
+#~ "La ŝanĝo estas farita, sed por ke ĝi efiku, vi devas el- kaj ensaluti"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Malkovro-menuo"

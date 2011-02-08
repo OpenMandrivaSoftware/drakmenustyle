@@ -1,0 +1,57 @@
+# drakmenustyle-fi - Finnish Translation
+# Copyright (C) 2006 Free Software Foundation, Inc.
+#
+# Thomas Backlund <tmb@mandriva.org>, 2006.
+# Jani Välimaa <jani.valimaa@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle-fi\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2009-04-29 23:51+0300\n"
+"Last-Translator: Jani Välimaa <jani.valimaa@gmail.com>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Käytä järjestelmänvalvojan asetuksia"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Alkuperäisvalikko (Työpöytäympäristön oletusvalikko, ei ehkä sisällä kaikki "
+"ohjelmia)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Valikkotyylin asetukset"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Valikkotyyli"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Valitse valikon tyyli:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr ""
+#~ "Muutos on tehty, mutta ottaaksesi sitä käyttöön sinun pitää lirjautua ulos"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Discovery valikko"

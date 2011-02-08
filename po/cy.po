@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Rhoslyn Prys <post@meddal.com>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drakmenustyle\n"
+"POT-Creation-Date: 2008-05-13 18:18+0200\n"
+"PO-Revision-Date: 2006-09-04 23:20-0000\n"
+"Last-Translator: Rhoslyn Prys <post@meddal.com>\n"
+"Language-Team: Welsh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n == 2) ? 1 : 0;\n"
+
+#: ../drakmenustyle:37
+#, c-format
+msgid "Use system administrator settings"
+msgstr "Defnyddio gosodiadau gweinyddwr y system"
+
+#: ../drakmenustyle:38
+#, c-format
+msgid "Mageia menu"
+msgstr ""
+
+#: ../drakmenustyle:39
+#, c-format
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Dewislen wreiddiol (dewislen rhagosodedig KDE/GNOME, ond nid yr holl "
+"raglenni)"
+
+#: ../drakmenustyle:50
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Ffurfweddu Arddull Dewislen"
+
+#: ../drakmenustyle:51
+#, c-format
+msgid "Menu Style"
+msgstr "Arddull Dewislen"
+
+#: ../drakmenustyle:55
+#, c-format
+msgid "Choose your menu style:"
+msgstr "Dewis arddull eich dewislen:"
+
+#~ msgid "The change is done, but to be effective you must logout"
+#~ msgstr "Mae’r newid wedi ei wneud ond i ddod i rym rhaid allgofnodi"
+
+#~ msgid "Discovery menu"
+#~ msgstr "Dewislen Discovery"
