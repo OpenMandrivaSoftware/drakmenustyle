@@ -1,16 +1,16 @@
 # Nederlandse vertaling van drakmenustyle
-# Copyright (C) 2006 Free Software Foundation, Inc.
+# Copyright (C) 2011 Mageia
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Drakmenustyle\n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2006-09-04 00:24+0200\n"
-"Last-Translator: Reinout van Schouwen <reinouts@gnome.org>\n"
-"Language-Team: Dutch <vertaling@nl.linux.org>\n"
+"PO-Revision-Date: 2011-05-01 13:16+0100\n"
+"Last-Translator: Remco Rijnders <remco@webconquest.com>\n"
+"Language-Team: Dutch <i18n-nl@ml.mageia.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../drakmenustyle:37
@@ -21,15 +21,12 @@ msgstr "Instellingen van systeembeheerder overnemen"
 #: ../drakmenustyle:38
 #, c-format
 msgid "Mageia menu"
-msgstr ""
+msgstr "Mageia menu"
 
 #: ../drakmenustyle:39
 #, c-format
-msgid ""
-"Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr ""
-"Originele menu (standaardmenu van KDE/GNOME, bevat mogelijk niet alle "
-"toepassingen)"
+msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr "Originele menu (standaardmenu van KDE/GNOME, bevat mogelijk niet alle toepassingen)"
 
 #: ../drakmenustyle:50
 #, c-format
@@ -50,6 +47,6 @@ msgstr "Kies uw menustijl:"
 #~ msgstr ""
 #~ "De wijziging is gemaakt, maar om het effect te zien dient u zich eerst af "
 #~ "te melden"
-
 #~ msgid "Discovery menu"
 #~ msgstr "Discovery-menu"
+
