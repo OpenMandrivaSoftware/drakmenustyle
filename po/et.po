@@ -1,18 +1,20 @@
 # Translation of drakmenustyle.po to Estonian.
 # Copyright (C) 2006 Free Software Foundation, Inc.
 # Marek Laane <bald@starman.ee>, 2006.
+# Marek Laane <bald@smail.ee>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: drakmenustyle\n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2006-08-17 16:30+0300\n"
-"Last-Translator: Marek Laane <bald@starman.ee>\n"
-"Language-Team: Estonian <et@li.org>\n"
+"PO-Revision-Date: 2011-05-09 16:45+0000\n"
+"Last-Translator: Marek Laane <bald@smail.ee>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../drakmenustyle:37
 #, c-format
@@ -22,14 +24,12 @@ msgstr "Süsteemiadministraatori seadistuste kasutamine"
 #: ../drakmenustyle:38
 #, c-format
 msgid "Mageia menu"
-msgstr ""
+msgstr "Mageia menüü"
 
 #: ../drakmenustyle:39
 #, c-format
-msgid ""
-"Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr ""
-"Originaalmenüü (KDE/GNOME vaikemenüü, ei pruugi sisaldada kõiki rakendusi)"
+msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr "Originaalmenüü (KDE/GNOME vaikemenüü, ei pruugi sisaldada kõiki rakendusi)"
 
 #: ../drakmenustyle:50
 #, c-format
@@ -45,9 +45,3 @@ msgstr "Menüüstiil"
 #, c-format
 msgid "Choose your menu style:"
 msgstr "Valige menüüstiil:"
-
-#~ msgid "The change is done, but to be effective you must logout"
-#~ msgstr "Muudatus on tehtud, aga selle rakendamiseks tuleb välja logida"
-
-#~ msgid "Discovery menu"
-#~ msgstr "Discovery menüü"
