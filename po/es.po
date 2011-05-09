@@ -1,41 +1,39 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2006 Mandriva
-# Pablo Saratxaga <pablo@mandriva.com>, 2006
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: drakmenustyle\n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2006-08-17 21:07+0200\n"
-"Last-Translator: Pablo Saratxaga <pablo@mandriva.com>\n"
-"Language-Team: spanish\n"
+"PO-Revision-Date: 2011-05-08 20:16-0300\n"
+"Last-Translator: Eduardo Vidal <evidal86@gmail.com>\n"
+"Language-Team: Spanish <mdktrans@blogdrake.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../drakmenustyle:37
 #, c-format
 msgid "Use system administrator settings"
-msgstr "Seguir las configuraciones del administrador del sistema"
+msgstr "Utilice la herramienta de configuración del administrador del sistema"
 
 #: ../drakmenustyle:38
 #, c-format
 msgid "Mageia menu"
-msgstr ""
+msgstr "Menú de Mageia"
 
 #: ../drakmenustyle:39
 #, c-format
-msgid ""
-"Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr ""
-"Menú original (menú predeterminado para KDE / GNOME, puede no contener a "
-"todas las aplicaciones)"
+msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr "Menú original (menú por defecto de KDE/GNOME, puede no contener todas las aplicaciones)"
 
 #: ../drakmenustyle:50
 #, c-format
 msgid "Menu Style Configuration"
-msgstr "Configuración del estilo de menú"
+msgstr "Configuración del estilo del menú"
 
 #: ../drakmenustyle:51
 #, c-format
@@ -45,10 +43,5 @@ msgstr "Estilo del menú"
 #: ../drakmenustyle:55
 #, c-format
 msgid "Choose your menu style:"
-msgstr "Elija el estilo de su menú:"
+msgstr "Seleccione el estilo del menú:"
 
-#~ msgid "The change is done, but to be effective you must logout"
-#~ msgstr "Se ha realizado el cambio, pero no se hará efectivo hasta que salga"
-
-#~ msgid "Discovery menu"
-#~ msgstr "Menú «Discovery»"
