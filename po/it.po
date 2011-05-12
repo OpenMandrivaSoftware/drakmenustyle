@@ -1,25 +1,19 @@
-# translation of example-it.po to italiano
-# translation of example-it.po to Italian
-# CONTROL PANEL ITA VER. 0.0.1
-# Copyright (C) 2003, 2004, 2005 Free Software Foundation, Inc.
-# Ruggero Tonelli <ruggero.mil@tiscalinet.it>, 2000.
-# Simone Riccio <s.riccio@aeb.informatica.it>, 2003.
-# Roberto Rosselli Del Turco <rosselli@ling.unipi.it>, 2003.
-# Simone Riccio <raicio@raicio.net>, 2004.
-# Andrea Celli <a.celli@caltanet.it>, 2005.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: drakmenustyle-it\n"
+"Project-Id-Version: drakmenustyle\n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2006-09-18 21:39+0200\n"
-"Last-Translator: Andrea Celli <a.celli@caltanet.it>\n"
-"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"PO-Revision-Date: 2011-05-12 19:32+0000\n"
+"Last-Translator: Matteo Pasotti <svobodi@yahoo.it>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10.2\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../drakmenustyle:37
 #, c-format
@@ -29,15 +23,12 @@ msgstr "Usa le impostazioni dell'amministratore di sistema"
 #: ../drakmenustyle:38
 #, c-format
 msgid "Mageia menu"
-msgstr ""
+msgstr "Mageia menu"
 
 #: ../drakmenustyle:39
 #, c-format
-msgid ""
-"Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr ""
-"Menu originale (menu predefinito di KDE / GNOME, può darsi che non contenga "
-"tutte le applicazioni)"
+msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr "Menu originale (menu predefinito di KDE / GNOME, può darsi che non contenga tutte le applicazioni)"
 
 #: ../drakmenustyle:50
 #, c-format
@@ -53,11 +44,3 @@ msgstr "Stile del menu"
 #, c-format
 msgid "Choose your menu style:"
 msgstr "Scegli lo stile del menu:"
-
-#~ msgid "The change is done, but to be effective you must logout"
-#~ msgstr ""
-#~ "Il cambiamento è stato effettuato,\n"
-#~ "ma perché abbia effetto devi chiudere la sessione"
-
-#~ msgid "Discovery menu"
-#~ msgstr "Menu Discovery"
