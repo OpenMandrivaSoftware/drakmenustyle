@@ -1,20 +1,19 @@
-# Turkish translation of PACKAGE.
-# Copyright (C) 2007 Free Software Foundation, Inc.
-# Kerem Can Karakaş <kerem@mandriva.com.tr>, 2007.
-# Atilla ÖNTAŞ <atilla_ontas@mandriva.com>, 2009.
-#
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: drakmenustyle\n"
-"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2009-03-16 13:09+0200\n"
-"Last-Translator: Atilla ÖNTAŞ <atilla_ontas@mandriva.com>\n"
-"Language-Team: Turkish <cooker-i18n@mandrivalinux.org>\n"
+"PO-Revision-Date: 2012-01-16 15:02+0000\n"
+"Last-Translator: Atilla ÖNTAŞ <tarakbumba@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bitPlural-Forms: nplurals=2; plural=n != 1;\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
 #: ../drakmenustyle:37
 #, c-format
@@ -24,20 +23,17 @@ msgstr "Sistem yöneticisi ayarlarını kullan"
 #: ../drakmenustyle:38
 #, c-format
 msgid "Mageia menu"
-msgstr ""
+msgstr "Mageia menüsü"
 
 #: ../drakmenustyle:39
 #, c-format
-msgid ""
-"Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr ""
-"Orijinal menü (KDE/GNOME için öntanımlı menü; bütün uygulamaları "
-"içermeyebilir)"
+msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr "Özgün menü (KDE/GNOME için öntanımlı menü; bütün uygulamaları içermeyebilir)"
 
 #: ../drakmenustyle:50
 #, c-format
 msgid "Menu Style Configuration"
-msgstr "Menü biçimi yapılandırması"
+msgstr "Menü Biçimi Yapılandırması"
 
 #: ../drakmenustyle:51
 #, c-format
@@ -47,7 +43,4 @@ msgstr "Menü Biçimi"
 #: ../drakmenustyle:55
 #, c-format
 msgid "Choose your menu style:"
-msgstr "Menü Stili seçin"
-
-#~ msgid "The change is done, but to be effective you must logout"
-#~ msgstr "İşlem gerçekleşti fakat yeniden girişte etkin olacak"
+msgstr "Menü biçiminizi seçin:"
