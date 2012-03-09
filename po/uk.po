@@ -28,7 +28,7 @@ msgstr "Використовувати налаштування системно
 #: ../drakmenustyle:38
 #, c-format
 msgid "Mageia menu"
-msgstr ""
+msgstr "Меню Mageia"
 
 #: ../drakmenustyle:39
 #, c-format
@@ -49,7 +49,7 @@ msgstr "Стиль меню"
 #: ../drakmenustyle:55
 #, c-format
 msgid "Choose your menu style:"
-msgstr "Оберіть стиль меню:"
+msgstr "Виберіть стиль меню:"
 
 #~ msgid "Discovery menu"
 #~ msgstr "Меню Discovery"
