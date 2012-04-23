@@ -1,17 +1,50 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# Translation of drakmenustyle.po to Romanian
+# Copyright (c) 2010-2012 Mageia
+#
+# VÄ rugÄm sÄ nu actualizaÅ£i fiÈierul, cu excepÈia cazului Ã®n care sÃ®nteÈi
+# sigur de calitatea traducerii dumneavoastrÄ, de gramaticÄ Èi de ortografie.
+# Acestea din urmÄ sÃ®nt de prea multe ori aproximative.
+# Corectarea lor ulterioarÄ nu are nici un alt rezultat decÃ®t acela de
+# pierdere de timp pentru toata lumea.
+#
+# VÄ RUGÄM SÄ RESPECTAÈI SEMNELE DE PUNCTUAÈIE ALE LIMBII ROMÃNE!
+#
+# Nu suprimaÈi spaÈiul care urmeazÄ unui semn de punctuaÈie de sfÃ®rÈit de
+# frazÄ; trebuie respectatÄ versiunea originalÄ. Ãn acest caz, este foarte
+# probabil ca programul sÄ afiÈeze un mesaj la sfÃ®rÈit. SuprimÃ®nd acel spaÈiu,
+# cele douÄ cuvintele vor fi afiÈate legat.
+#
+# TraduceÈi de manierÄ INTELIGENTÄ (de ce nu Èi prin comparaÈie cu alte
+# traduceri ale acestui fiÈier Ã®n alte limbi) Èi nu cuvÃ®nt cu cuvÃ®nt. Unele
+# astfel de traduceri nu au nici un sens Ã®n limba romÃ¢nÄ.
+#
+# ATENÈIE LA FONTURILE UTILIZATE! Pentru a reda corect diacriticele folosiÈi
+# disponerea tastaturii romÃ¢neascÄ standard, codarea de caractere UTF-8 Èi
+# asiguraÈi-vÄ cÄ fonturile utilizate sÃ®nt cu virguliÈe, NU CU SEDILE!
+# Exemplu:
+#          font incorect (cu sedile): ÅÅ Å£Å¢
+#          font corect (cu virgule): ÈÈ ÈÈ
+#
+# Pentru a vÄ asigura cÄ folosiÈi fonturile corecte, vizitaÈi:
+#          http://i18n.ro/Fonturi_romanesti/testare
+#
+# VÄ mulÈumim pentru Ã®nÈelegere.
+#                                                       Echipa de traducÄtori,
+#                                                       www.MageiaUsers.ro
+#
+# TraducÄtori de-a lungul timpului:
+# Florin CÄtÄlin RUSSEN <cfrussen@yahoo.co.uk>, 2010 - 2012.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: drakmenustyle\n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2011-05-19 13:09+0000\n"
-"Last-Translator: Florin Catalin RUSSEN <cfrussen@yahoo.co.uk>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-04-23 22:34+0100\n"
+"Last-Translator: Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>\n"
+"Language-Team: ROMANIAN <cfrussen@yahoo.co.uk>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2)\n"
 
@@ -44,3 +77,4 @@ msgstr "Stil de meniu"
 #, c-format
 msgid "Choose your menu style:"
 msgstr "Alegeți stilul de afișare al meniurilor:"
+
