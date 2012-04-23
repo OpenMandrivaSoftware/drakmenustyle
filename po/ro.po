@@ -39,7 +39,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drakmenustyle\n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2012-04-23 22:34+0100\n"
+"PO-Revision-Date: 2012-04-23 22:53+0100\n"
 "Last-Translator: Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>\n"
 "Language-Team: ROMANIAN <cfrussen@yahoo.co.uk>\n"
 "MIME-Version: 1.0\n"
@@ -47,6 +47,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2)\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 #: ../drakmenustyle:37
 #, c-format
