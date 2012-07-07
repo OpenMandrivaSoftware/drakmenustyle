@@ -9,12 +9,14 @@ msgstr ""
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
 "PO-Revision-Date: 2011-06-15 16:12+0000\n"
 "Last-Translator: Filip Komar <filip.komar@gmail.com>\n"
-"Language-Team: Translation list <mageia-i18n@mageia.org>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>, Translation list <mageia-"
+"i18n@mageia.org>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Language: sl\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3)\n"
 
 #: ../drakmenustyle:37
 #, c-format
@@ -28,8 +30,10 @@ msgstr "Mageia meni"
 
 #: ../drakmenustyle:39
 #, c-format
-msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr "Izvirni meni (privzeti meni za KDE/GNOME; mogoče ne vsebuje vseh programov)"
+msgid ""
+"Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr ""
+"Izvirni meni (privzeti meni za KDE/GNOME; mogoče ne vsebuje vseh programov)"
 
 #: ../drakmenustyle:50
 #, c-format
