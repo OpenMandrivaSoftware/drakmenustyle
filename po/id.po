@@ -1,36 +1,34 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR Free Software Foundation, Inc.
-# Willy Sudiarto Raharjo <willysr@gmail.com>, 2006 - 2007.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.1\n"
+"Project-Id-Version: drakmenustyle\n"
 "POT-Creation-Date: 2008-05-13 18:18+0200\n"
-"PO-Revision-Date: 2007-09-28 07:55+0700\n"
-"Last-Translator: Willy Sudiarto Raharjo <willysr@gmail.com>\n"
-"Language-Team: Indonesia <mdk-id@yahoogroups.com>\n"
+"PO-Revision-Date: 2012-08-29 08:58+0700\n"
+"Last-Translator: Kiki Syahadat <kiki.syahadat@yahoo.co.id>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../drakmenustyle:37
 #, c-format
 msgid "Use system administrator settings"
-msgstr "Gunakan setting administrator sistem"
+msgstr "Gunakan pengaturan administrator sistem"
 
 #: ../drakmenustyle:38
 #, c-format
 msgid "Mageia menu"
-msgstr ""
+msgstr "Menu Mageia"
 
 #: ../drakmenustyle:39
 #, c-format
-msgid ""
-"Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr ""
-"Menu orisinal (menu default dari KDE/GNOME, mungkin tidak berisi semua "
-"aplikasi)"
+msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
+msgstr "Menu asli (menu bawaan dari KDE/GNOME, mungkin tidak semua aplikasi ditampilkan)"
 
 #: ../drakmenustyle:50
 #, c-format
@@ -47,8 +45,3 @@ msgstr "Gaya Menu"
 msgid "Choose your menu style:"
 msgstr "Pilih gaya menu Anda:"
 
-#~ msgid "The change is done, but to be effective you must logout"
-#~ msgstr "Perubahan selesai, tetapi agar efektif, Anda harus logout"
-
-#~ msgid "Discovery menu"
-#~ msgstr "Menu Discovery"
