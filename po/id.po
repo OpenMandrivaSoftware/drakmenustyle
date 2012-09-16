@@ -29,7 +29,7 @@ msgstr "Menu Mageia"
 #: ../drakmenustyle:39
 #, c-format
 msgid "Original menu (default menu from KDE/GNOME, may not contain all applications)"
-msgstr "Menu asli (menu bawaan dari KDE/GNOME, mungkin tidak semua aplikasi ditampilkan)"
+msgstr "Menu asli (menu default dari KDE/GNOME, mungkin tidak berisi semua aplikasi)"
 
 #: ../drakmenustyle:50
 #, c-format
